@@ -1,0 +1,45 @@
+.product-table {
+    width: 80%;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.search-container {
+    margin-bottom: 20px;
+}
+
+.search-container label {
+    margin-right: 10px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.total-revenue {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
